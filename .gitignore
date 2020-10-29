@@ -1,0 +1,4 @@
+*.out
+*.gz
+amazon-kinesis-video-streams-producer-c/
+
