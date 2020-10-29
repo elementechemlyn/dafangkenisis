@@ -1,4 +1,4 @@
-## Kenisis
+## Dafang Kenisis
 
 Tools to cross compile the AWS Kenisis C producer library for Dafang/T20 based cameras.
 
